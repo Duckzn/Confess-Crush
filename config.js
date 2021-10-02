@@ -5,8 +5,8 @@ const CONFIG = {
     Mà sao anh cứ đi nhầm đường
     Lạc vào tim emm :3
 `
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    btnIntro : '^^ HiHi ^^' ,
+    title : 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 🥰' ,
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
