@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu emm nhiều nhiều 😘😘',
-    messDesc: 'Yêuu emmm nhắmm nhuôn.',
+    messDesc : 'Yêuu emmm nhắmm .' ,
     btnAccept: 'moazz <3',
     messLink: 'https://github.com/Duckzn/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
